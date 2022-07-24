@@ -1,0 +1,6 @@
+@use '../../index.scss'
+
+.done {
+    box-shadow: $box-shadow-down;
+    color: $text-secondary-color;
+}
